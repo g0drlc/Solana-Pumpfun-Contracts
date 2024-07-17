@@ -1,10 +1,11 @@
 # Pump.fun-Smart-Contract
 This is the Rust/Anchor smart contract for Pump.fun - Add virtual LP, remove LP, create Raydium Pool.
 
-### Please use it and follow me on github.
+###Introduction of Pump Fun
+Pump.fun allows you to create and trade memecoins effortlessly. It operates on a bonding curve model, where token prices are determined by the curve's shape. As more tokens are bought, the price increases, and as tokens are sold, the price decreases.
 
-### Here
-You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract with CPI calls.  
-https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
+### Pumfun.bot
+If you're interested in having the Pump.fun sniper bot , please reach out to source code me through the following link:
 
-### If you have some questions, ask @Tr1030109 in Telegram and 0xapp123 in Discord
+
+
